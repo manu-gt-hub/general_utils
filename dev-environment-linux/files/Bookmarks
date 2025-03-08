@@ -1,0 +1,124 @@
+{
+   "checksum": "bf9fd82c2190f5f464fb2e2fb4358295",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13244036259000000",
+            "guid": "5d5ce87a-b3e7-476f-b080-feb12a52a289",
+            "id": "5",
+            "name": "Intranet",
+            "type": "url",
+            "url": "https://intranet.babel.es/"
+         }, {
+            "date_added": "13244292054794241",
+            "guid": "9ce9067c-458b-4615-8a00-d8aee6f0aed0",
+            "id": "20",
+            "name": "la comunidad",
+            "type": "url",
+            "url": "https://lacomunidad.babel.es/"
+         }, {
+            "date_added": "13244038764000000",
+            "guid": "3b542983-0c19-4979-b6e7-c051045f4484",
+            "id": "6",
+            "name": "Gmail",
+            "type": "url",
+            "url": "https://mail.google.com/mail/u/0/#inbox"
+         }, {
+            "date_added": "13244038724000000",
+            "guid": "d64bde6f-c979-42cb-80d0-ed48b759ffa5",
+            "id": "7",
+            "name": "Slack",
+            "type": "url",
+            "url": "https://app.slack.com/client/T7LDH7TB9/learning-slack"
+         }, {
+            "date_added": "13243958966000000",
+            "guid": "c00b0da2-d078-4a24-9577-79a100c558d8",
+            "id": "9",
+            "name": "Confluence",
+            "type": "url",
+            "url": "https://confluence.si.orange.es/"
+         }, {
+            "date_added": "13243958977000000",
+            "guid": "7e09d699-7a1c-4335-b1be-648f0c486516",
+            "id": "10",
+            "name": "Jira",
+            "type": "url",
+            "url": "https://jira.si.orange.es/login.jsp"
+         }, {
+            "date_added": "13244024741000000",
+            "guid": "8ef13e3a-40ce-436c-a9c4-a9250c48adf8",
+            "id": "13",
+            "name": "Backlog",
+            "type": "url",
+            "url": "https://jira.si.orange.es/secure/RapidBoard.jspa?rapidView=20597&projectKey=BD2CF3&view=planning&issueLimit=100"
+         }, {
+            "date_added": "13244027944000000",
+            "guid": "8f26543f-4c1a-4c16-bc08-37e923191c89",
+            "id": "14",
+            "name": "AWS",
+            "type": "url",
+            "url": "https://aws.amazon.com/"
+         }, {
+            "date_added": "13243958999000000",
+            "guid": "18f2e66e-f6d5-41be-b2b6-e9ad75d41e85",
+            "id": "12",
+            "name": "GitLab",
+            "type": "url",
+            "url": "https://torredecontrol.si.orange.es/gitlab"
+         }, {
+            "date_added": "13244284069968075",
+            "guid": "e206c1a5-3163-4635-9586-8b1ec3f0ab93",
+            "id": "16",
+            "name": "Google Maps",
+            "type": "url",
+            "url": "https://www.google.es/maps/"
+         }, {
+            "date_added": "13244284091655066",
+            "guid": "3bb9bba4-62c3-4c2f-b6ac-7ee53ffc0658",
+            "id": "17",
+            "name": "Youtube",
+            "type": "url",
+            "url": "https://www.youtube.com/?hl=es&gl=ES"
+         }, {
+            "date_added": "13244284118106300",
+            "guid": "55dd8759-de15-4536-b178-92a2b0fbf0e3",
+            "id": "18",
+            "name": "Translate",
+            "type": "url",
+            "url": "https://translate.google.es/?hl=es"
+         }, {
+            "date_added": "13244205814000000",
+            "guid": "960faeac-2349-414d-a4a6-85f1d21a1a48",
+            "id": "15",
+            "name": "Entorno",
+            "type": "url",
+            "url": "https://confluence.si.orange.es/display/BDW/DE+-+02.+Entorno+de+Trabajo"
+         } ],
+         "date_added": "13244283968554811",
+         "date_modified": "13244292057617487",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13244283968554819",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13244283968554820",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
