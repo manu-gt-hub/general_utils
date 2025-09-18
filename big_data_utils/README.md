@@ -1,7 +1,5 @@
 # big_data_utils
 
-# Big Data Utilities
-
 This repository contains a collection of scripts and notebooks with utilities for working with Big Data, focused on the Apache Spark ecosystem, Databricks, and cloud storage (S3, Azure Blob, etc.).
 
 ---
