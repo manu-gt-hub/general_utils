@@ -1,11 +1,20 @@
-# dev-environment
-development environment
+# Development Environment Setup
 
-para EJECUTAR
+This repository contains scripts and instructions to set up a development environment with essential tools on Ubuntu/Debian-based systems.
 
-simplemente hacer git clone del repositorio o descarga directa y ejecutar el script ./set_environment.sh
+---
 
-para ACTUALIZAR
+## Tools Installed
 
-para añadir, editar o eliminar comandos, retocar el fichero files/environment.sh
-
+- Sublime Text
+- Chromium Browser
+- Terminator Terminal
+- Slack
+- IntelliJ IDEA Community Edition
+- KeePass
+- curl
+- Git
+- Vim
+- Kazam Screen Recorder
+- GitKraken
+- Postman
