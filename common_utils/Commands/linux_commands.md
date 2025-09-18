@@ -3,7 +3,8 @@
 
   **listar directorio**
 ```
-  ll 
+  ls (listado simple)
+  ll (mas detallado) 
 ```
   **entrar en directorio**
 ```
