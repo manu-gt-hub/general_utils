@@ -6,10 +6,10 @@ This repository contains a collection of scripts and notebooks with utilities fo
 
 ## Contents
 
-- Scripts to read and process data in CSV, Parquet, JSON formats.
-- Examples of configuration for accessing S3 from Spark.
+- Spark optimization (directives, salted join etc.)
+- Databricks utilities
 - Utilities for managing mountpoints in Databricks.
-- Sample code for API integration and task automation.
+- Delta tables usage.
 
 ---
 
