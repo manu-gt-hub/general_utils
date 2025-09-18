@@ -5,7 +5,7 @@ VAR=$1
 ENV=""
 SSH_ENV=""
 
-PROJECT_FOLDER="GEAOSP_MIR_UC_CEM_WORKFLOWS"
+VAR_FOLDER="XXX"
 
 #en caso de que var sea igual a "CASO1", la variable ENV toma un valor y si vale "CASO2", toma otro
 case $VAR in
