@@ -32,7 +32,7 @@
 ```
   **confirmar cambios sobre el último commit**
 ```
-  git commit  --amend
+  git commit  --amend [--no-edit]
 ```
   **ver la lista de commits**
 ```
@@ -78,4 +78,30 @@
    ** descartar todos los cambios en todos los ficheros**
 ```
     git reset  --hard
+```
+  ** agrupar varios commits en uno (squash)**
+```
+Pasos para hacer squash con git rebase -i
+
+Ejecuta rebase interactivo con la cantidad de commits que quieres combinar. Por ejemplo, para los últimos 3 commits:
+
+git rebase -i HEAD~3
+
+Se abrirá un editor con algo así:
+
+pick abc123 Añade función A
+pick def456 Corrige bug en función A
+pick ghi789 Mejora documentación
+
+
+Cambia la palabra pick en los commits que quieres combinar por squash o s (normalmente, deja el primero como pick y los siguientes como squash):
+
+pick abc123 Añade función A
+squash def456 Corrige bug en función A
+squash ghi789 Mejora documentación
+
+
+Guarda y cierra el editor. Luego se abrirá otro editor para que edites el mensaje del nuevo commit combinado. Puedes dejar solo uno o combinar los mensajes.
+
+Guarda y cierra.
 ```
