@@ -1,12 +1,14 @@
-# CommonUtils
+# Useful Commands for Big Data and Development
 
-Repositorio creado para tener a mano todos los comandos típicos utilizados en:
+This repository contains a collection of practical commands and examples for Linux, CMD (Windows), Shell scripting, Git, HDFS, and Hive. It is designed to assist with common tasks in administration, development, and data handling in Big Data environments.
 
-- Git
-- HDFS
-- Hive
-- Linux
+---
 
-y sintaxis de:
+## Contents
 
-- Bash
+- **Linux**: Basic and advanced commands.
+- **CMD (Windows)**: Common commands for Windows command prompt.
+- **Shell (sh/bash)**: Scripts and scripting examples.
+- **Git**: Workflow, squash, branches, merges, etc.
+- **HDFS**: Commands to interact with the Hadoop Distributed File System.
+- **Hive**: Basic and advanced queries for Apache Hive.
